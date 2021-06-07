@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+# Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=#071D49)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=#071D49)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=#071D49)
+![](https://img.shields.io/badge/Code-MicroPython-informational?style=flat&logo=MicroPython&logoColor=white&color=#071D49)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=#071D49)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=#071D49)
+![](https://img.shields.io/badge/Code-MicroPython-informational?style=flat&logo=MicroPython&logoColor=white&color=#071D49)
 
-![](https://img.shields.io/badge/<Linux>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!--
 **dmyrkos/dmyrkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
