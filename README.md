@@ -28,6 +28,6 @@
 
 
 - 🔭 I’m currently working on a  Hexapod Robot development
-- 🌱 I’m currently learning Djanko and FastApi
+- 🌱 I’m currently learning Django and FastApi
 
 
